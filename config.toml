@@ -1,5 +1,5 @@
 title = "My awesome page"
-baseURL = "https://zeynepkilinc.com"
+baseURL = ""
 languageCode = "en-us"
 theme = "ananke"
 
